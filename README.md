@@ -1,16 +1,14 @@
-## Hi there 👋
+### Caike Alves Menezes
 
-<!--
-**caikemenezes/caikemenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira do audiovisual para a engenharia de software full stack.
 
-Here are some ideas to get you started:
+🎥 Antes de programar: anos como videomaker, editor de vídeo e fotógrafo<br>
+💻 Hoje: construindo uma base sólida em JavaScript, TypeScript, Next.js e banco de dados<br>
+🎯 Buscando: uma oportunidade de estágio em desenvolvimento de software<br>
+🔗 LinkedIn: [linkedin.com/in/caike-alves](https://www.linkedin.com/in/caike-alves)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projetos em destaque
+
+**[sistemadefotooscaike](https://github.com/caikemenezes/sistemadefotooscaike)** — sistema para organizar e entregar fotos de eventos e ensaios para clientes
+
+**[caike-teleprompter](https://github.com/caikemenezes/caike-teleprompter)** — teleprompter web para gravação de vídeo ([demo ao vivo](https://caikemenezes.github.io/caike-teleprompter/))
